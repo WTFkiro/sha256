@@ -1,0 +1,201 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/SOFTWARE/Modelsim/win64
+T_opt
+!s110 1664350801
+V3VPCj_41l^7WjK6ATjjU33
+04 14 4 work tb_sha256_core fast 0
+=1-7c10c9ae2f89-6333fa51-10c-7b0c
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+T_opt1
+!s110 1664350694
+VdM5@_<kXz0?cVHJkJN;SX0
+Z4 04 11 4 work sha256_core fast 0
+=1-7c10c9ae2f89-6333f9e5-372-7770
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1664021402
+Vi5ln7F3NUC^1L0oXU6@TQ3
+R4
+=1-7c10c9ae2f89-632ef39a-152-7540
+R1
+R2
+n@_opt2
+R3
+R0
+vsha256
+Z5 !s110 1664350678
+!i10b 1
+!s100 6<_7WYYTaTg3Xc<II2mC92
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IV>2zG;DgViVnLm8h]1X593
+Z7 dE:/WORK/verilog/sha256/src/tb
+w1663841150
+8E:/WORK/verilog/sha256/src/rtl/sha256.v
+FE:/WORK/verilog/sha256/src/rtl/sha256.v
+!i122 17
+L0 42 220
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z10 !s108 1664350678.000000
+!s107 E:/WORK/verilog/sha256/src/rtl/sha256.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/rtl/sha256.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vsha256_core
+R5
+!i10b 1
+!s100 S;j3=>_M2T`J><Z3^9MKz3
+R6
+IXfkO84aDLz`RY3]ae[aBO3
+R7
+Z12 w1649038782
+8E:/WORK/verilog/sha256/src/rtl/sha256_core.v
+FE:/WORK/verilog/sha256/src/rtl/sha256_core.v
+!i122 18
+L0 42 507
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/WORK/verilog/sha256/src/rtl/sha256_core.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/rtl/sha256_core.v|
+!i113 0
+R11
+R2
+vsha256_k_constants
+R5
+!i10b 1
+!s100 ^Va[i]`UHR6fPm8Lic>3H3
+R6
+I[D;oNC@b;gE>PKh=9oNha1
+R7
+R12
+8E:/WORK/verilog/sha256/src/rtl/sha256_k_constants.v
+FE:/WORK/verilog/sha256/src/rtl/sha256_k_constants.v
+!i122 19
+L0 41 90
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/WORK/verilog/sha256/src/rtl/sha256_k_constants.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/rtl/sha256_k_constants.v|
+!i113 0
+R11
+R2
+vsha256_w_mem
+!s110 1664350679
+!i10b 1
+!s100 9TMSK2D2^;=[>7@>^7^Q62
+R6
+IEj]l]TPLQ]CH2o=519RG63
+R7
+R12
+8E:/WORK/verilog/sha256/src/rtl/sha256_w_mem.v
+FE:/WORK/verilog/sha256/src/rtl/sha256_w_mem.v
+!i122 20
+L0 42 227
+R8
+R9
+r1
+!s85 0
+31
+!s108 1664350679.000000
+!s107 E:/WORK/verilog/sha256/src/rtl/sha256_w_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/rtl/sha256_w_mem.v|
+!i113 0
+R11
+R2
+vtb_sha256
+R5
+!i10b 1
+!s100 fQ<e3[_iikGiZDdIV^92k3
+R6
+I8SI1H]FS_6GPo9cm3ccz40
+R7
+w1649118258
+8E:/WORK/verilog/sha256/src/tb/tb_sha256.v
+FE:/WORK/verilog/sha256/src/tb/tb_sha256.v
+!i122 14
+L0 41 674
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/WORK/verilog/sha256/src/tb/tb_sha256.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/tb/tb_sha256.v|
+!i113 0
+R11
+R2
+vtb_sha256_core
+R5
+!i10b 1
+!s100 @4fB@>?NzP@OXigZUK_HT2
+R6
+I3a3lG>ED]PbWg4lLZC0@A3
+R7
+w1649118277
+8E:/WORK/verilog/sha256/src/tb/tb_sha256_core.v
+FE:/WORK/verilog/sha256/src/tb/tb_sha256_core.v
+!i122 15
+L0 41 476
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/WORK/verilog/sha256/src/tb/tb_sha256_core.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/tb/tb_sha256_core.v|
+!i113 0
+R11
+R2
+vtb_sha256_w_mem
+R5
+!i10b 1
+!s100 jG62dSB?Ym]EDNJ3WfCm83
+R6
+I6AiU[_eZoo9AD5z^i2;5S0
+R7
+R12
+8E:/WORK/verilog/sha256/src/tb/tb_sha256_w_mem.v
+FE:/WORK/verilog/sha256/src/tb/tb_sha256_w_mem.v
+!i122 16
+L0 40 170
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/WORK/verilog/sha256/src/tb/tb_sha256_w_mem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/WORK/verilog/sha256/src/tb/tb_sha256_w_mem.v|
+!i113 0
+R11
+R2
